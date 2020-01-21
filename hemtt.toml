@@ -1,0 +1,10 @@
+name = "main-menu-test"
+prefix = "main-menu-test"
+author = "Test"
+folder_optionals = false
+files = [
+    "*.dll",
+    "*.pdb"
+]
+key_name = "{{prefix}}-{{version}}"
+sig_name = "{{prefix}}-{{version}}"
